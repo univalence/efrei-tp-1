@@ -1,6 +1,12 @@
 # efrei-tp-1
 Repository for the first TP at Efrei
 
+Update (Feb 13, 2020) : 
+  - added correction
+  - FYI : the last exercise was taken from our blog article written by François Sarradin which you can find here https://blog.univalence.io/les-monoides-ne-sont-pas-une-maladie/
+  
+  -----
+
 1) Clone the repository
 2) Import the project in IntelliJ IDEA
   - go to File -> New -> Project from Existing Sources...
@@ -13,8 +19,8 @@ Furthermore for the next TPs:
 
   - There will be 4 classes of TPs and 2 classes of Project and 1 for the evaluation of the project, so 7 classes.
     1. First TP is about Scala (this one)
-    2. Second TP about Spark
-    3. Third TP about Spark
+    2. Second TP about Spark/Scala
+    3. Third TP about Spark/Scala
     4. Last TP is about Kafka and Introduction to the project that will be evaluated
     5. Class where you can work on your project
     6. Second class where you can work on your project
