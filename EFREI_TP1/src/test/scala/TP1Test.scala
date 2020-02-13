@@ -69,7 +69,7 @@ class TP1Test extends org.scalatest.FunSuite {
   }
 
   test("monoid") {
-    assert(skiRatingAverage == 4.409999999999999)
+    assert((skiRatingAverage*100).round/100.0 == 4.41)
   }
 
 }
